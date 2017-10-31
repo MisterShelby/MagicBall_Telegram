@@ -1,0 +1,169 @@
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ApplicationInsights.config
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\csc.exe
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\csc.exe.config
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\csc.rsp
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\csi.exe
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\csi.rsp
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\System.AppContext.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\vbc.exe
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\vbc.exe.config
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\vbc.rsp
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\telegramBot.dll.config
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\telegramBot.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\telegramBot.pdb
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Antlr3.Runtime.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.Web.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Newtonsoft.Json.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Helpers.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Http.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Mvc.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Optimization.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Razor.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.WebPages.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.WebPages.Razor.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Telegram.Bot.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\WebGrease.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Newtonsoft.Json.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Helpers.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Http.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Mvc.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Optimization.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.Razor.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.WebPages.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\System.Web.WebPages.Razor.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Antlr3.Runtime.pdb
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\Microsoft.AI.Web.xml
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Web.Http.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\obj\Release\telegramBot.dll
+C:\Users\Curt Cobain\Documents\Visual Studio 2017\Projects\sand_box\telegramBot\telegramBot\obj\Release\telegramBot.pdb
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ApplicationInsights.config
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\telegramBot.dll.config
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\telegramBot.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\telegramBot.pdb
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Antlr3.Runtime.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.Web.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Newtonsoft.Json.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Net.Http.Formatting.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Helpers.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Http.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Http.WebHost.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Mvc.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Optimization.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Razor.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.WebPages.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.WebPages.Razor.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Telegram.Bot.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\WebGrease.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Newtonsoft.Json.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Net.Http.Formatting.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Helpers.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Http.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Http.WebHost.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Mvc.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Optimization.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.Razor.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.WebPages.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\System.Web.WebPages.Razor.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Antlr3.Runtime.pdb
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.AI.Web.xml
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Web.Http.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Web.Razor.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\obj\Release\telegramBot.csprojResolveAssemblyReference.cache
+C:\Users\miste\Desktop\telegramBot\telegramBot\obj\Release\telegramBot.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\obj\Release\telegramBot.pdb
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\csc.exe
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\csc.exe.config
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\csc.rsp
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\csi.exe
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\csi.rsp
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\System.AppContext.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\vbc.exe
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\vbc.exe.config
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\vbc.rsp
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\miste\Desktop\telegramBot\telegramBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
